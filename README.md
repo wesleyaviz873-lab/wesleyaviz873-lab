@@ -6,7 +6,7 @@ na máquina de quem usa.
 
 **Em destaque**
 
-- [**EKO**](https://github.com/wesleyaviz873-lab/eko) — servidor de música caseiro
+- [**EKO**](https://github.com/wesleyaviz873-lab/eko-play) — servidor de música caseiro
   em Python + app Android (Kotlin/Compose) que baixa do YouTube, evita duplicatas
   por impressão digital e serve a família com login Google, controle de acesso por
   aparelho e administração dentro do app.
